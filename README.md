@@ -1,2 +1,2 @@
-# quick_start
-This is a quick start gulp workflow.
+# aiga_temps
+Template for board meeting presentation
